@@ -1,5 +1,8 @@
 package com.orhanobut.logger
 
+import com.bd.ee.bear.logger.DiskLogAdapter
+import com.bd.ee.bear.logger.FormatStrategy
+import com.bd.ee.bear.logger.Logger
 import com.google.common.truth.Truth.assertThat
 import org.junit.Before
 import org.junit.Test

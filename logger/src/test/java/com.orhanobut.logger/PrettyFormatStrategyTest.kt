@@ -1,10 +1,12 @@
 package com.orhanobut.logger
 
+import com.bd.ee.bear.logger.LogStrategy
 import org.junit.Test
 
 import java.util.ArrayList
 
-import com.orhanobut.logger.Logger.DEBUG
+import com.bd.ee.bear.logger.Logger.DEBUG
+import com.bd.ee.bear.logger.PrettyFormatStrategy
 
 class PrettyFormatStrategyTest {
 

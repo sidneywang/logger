@@ -1,9 +1,11 @@
 package com.orhanobut.logger
 
+import com.bd.ee.bear.logger.AndroidLogAdapter
+import com.bd.ee.bear.logger.FormatStrategy
 import org.junit.Test
 
 import com.google.common.truth.Truth.assertThat
-import com.orhanobut.logger.Logger.DEBUG
+import com.bd.ee.bear.logger.Logger.DEBUG
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify
 

@@ -1,13 +1,13 @@
 package com.orhanobut.logger
 
+import com.bd.ee.bear.logger.LogcatLogStrategy
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.robolectric.RobolectricTestRunner
-import org.robolectric.annotation.Config
 import org.robolectric.shadows.ShadowLog
 
 import com.google.common.truth.Truth.assertThat
-import com.orhanobut.logger.Logger.DEBUG
+import com.bd.ee.bear.logger.Logger.DEBUG
 
 @RunWith(RobolectricTestRunner::class)
 class LogcatLogStrategyTest {

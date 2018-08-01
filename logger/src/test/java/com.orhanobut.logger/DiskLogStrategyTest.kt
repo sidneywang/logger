@@ -1,10 +1,11 @@
 package com.orhanobut.logger
 
 import android.os.Handler
+import com.bd.ee.bear.logger.DiskLogStrategy
 
 import org.junit.Test
 
-import com.orhanobut.logger.Logger.DEBUG
+import com.bd.ee.bear.logger.Logger.DEBUG
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify
 

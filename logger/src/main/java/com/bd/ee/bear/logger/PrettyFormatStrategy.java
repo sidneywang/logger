@@ -1,9 +1,9 @@
-package com.orhanobut.logger;
+package com.bd.ee.bear.logger;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import static com.orhanobut.logger.Utils.checkNotNull;
+import static com.bd.ee.bear.logger.Utils.checkNotNull;
 
 /**
  * Draws borders around the given log message along with additional information such as :

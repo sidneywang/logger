@@ -1,6 +1,8 @@
 package com.orhanobut.logger
 
-import com.orhanobut.logger.Logger.*
+import com.bd.ee.bear.logger.LogAdapter
+import com.bd.ee.bear.logger.Logger.*
+import com.bd.ee.bear.logger.LoggerPrinter
 import org.junit.Before
 import org.junit.Test
 import org.mockito.Matchers.any

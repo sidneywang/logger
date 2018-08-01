@@ -1,11 +1,12 @@
 package com.orhanobut.logger
 
 import android.util.Log
+import com.bd.ee.bear.logger.Logger
+import com.bd.ee.bear.logger.Utils
 
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.robolectric.RobolectricTestRunner
-import org.robolectric.annotation.Config
 
 import java.net.UnknownHostException
 

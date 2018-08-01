@@ -1,10 +1,10 @@
-package com.orhanobut.logger;
+package com.bd.ee.bear.logger;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
-import static com.orhanobut.logger.Utils.checkNotNull;
+import static com.bd.ee.bear.logger.Utils.checkNotNull;
 
 /**
  * LogCat implementation for {@link LogStrategy}

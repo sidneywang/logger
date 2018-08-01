@@ -1,4 +1,4 @@
-package com.orhanobut.logger;
+package com.bd.ee.bear.logger;
 
 import android.os.Environment;
 import android.os.Handler;
@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-import static com.orhanobut.logger.Utils.checkNotNull;
+import static com.bd.ee.bear.logger.Utils.checkNotNull;
 
 /**
  * CSV formatted file logging for Android.

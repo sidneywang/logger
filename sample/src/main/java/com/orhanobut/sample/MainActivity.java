@@ -4,11 +4,11 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.orhanobut.logger.AndroidLogAdapter;
-import com.orhanobut.logger.DiskLogAdapter;
-import com.orhanobut.logger.FormatStrategy;
-import com.orhanobut.logger.Logger;
-import com.orhanobut.logger.PrettyFormatStrategy;
+import com.bd.ee.bear.logger.AndroidLogAdapter;
+import com.bd.ee.bear.logger.DiskLogAdapter;
+import com.bd.ee.bear.logger.FormatStrategy;
+import com.bd.ee.bear.logger.Logger;
+import com.bd.ee.bear.logger.PrettyFormatStrategy;
 
 import java.util.Arrays;
 import java.util.HashMap;
